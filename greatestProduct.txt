@@ -1,0 +1,10 @@
+# find-mx-multiply
+In one array, find mix three item multiply result
+
+In a array, find greatest three elements product return Mix product, get the product of three largest integers in sorted array
+
+array1  [1,32,23,14,5,16,7]
+
+array2  [-10,7,29,30,5,-10,-70]
+
+greatest product is either (min1 * min2 * max1 || max1 * max2 * max3)

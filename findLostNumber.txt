@@ -1,0 +1,5 @@
+The output of the function should be 8
+array_of_integers = [2, 5, 1, 4, 9, 6, 3, 7];
+upper_bound = 9;
+lower_bound = 1;
+find which number is lost then return it.
