@@ -1,0 +1,7 @@
+find two array some element and return a subset array
+the subset element should unique
+
+var firstArray = [2, 2, 4, 1];
+var secondArray = [1, 2, 0, 2];
+ 
+return [1,2]
